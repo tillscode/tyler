@@ -3,7 +3,7 @@
 A clean, modern portfolio website showcasing my experience as a Data Analyst and MIS Student.
 
 ## 🌐 Live Site
-Visit my portfolio: [tillscode.github.io](https://tillscode.github.io)
+Visit my portfolio: [(https://tillscode.github.io)](https://github.com/tillscode/tyler)
 
 ## 🎯 About
 This portfolio showcases my journey as a future Data Analyst and Management Information Systems student at the University of Houston. I'm passionate about transforming complex data into actionable insights and currently seeking internship opportunities in the data analytics field.
